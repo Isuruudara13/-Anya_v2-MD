@@ -120,7 +120,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "MzZVRE1_Queen-Anya_tWDI=", 
+  sessionId: process.env.SESSION_ID || "c0MwUFl_Queen-Anya_NTl_Queen-Anya_g=", 
   auto_read_status : process.env.AUTO_READ_STATUS || "true",
   alwaysonline: process.env.ALWAYS_ONLINE || "false", 
   readmessage: process.env.READ_MESSAGE || "false", 
